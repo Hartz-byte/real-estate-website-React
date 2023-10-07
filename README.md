@@ -1,3 +1,14 @@
+#Quick peak screenshots!!
+
+![Real Estate - Google Chrome 07-10-2023 21_34_15](https://github.com/Hartz-byte/real-estate-website-React/assets/67004713/7269b8c4-84e2-4ffb-8938-cc6b4d9543a4)
+
+![Real Estate - Google Chrome 07-10-2023 21_34_35](https://github.com/Hartz-byte/real-estate-website-React/assets/67004713/ee1f25fd-6bff-4fba-a02c-a8837c8600c1)
+
+![Real Estate - Google Chrome 07-10-2023 21_34_47](https://github.com/Hartz-byte/real-estate-website-React/assets/67004713/198e230c-b086-4ead-9913-997e23bb551c)
+
+![Real Estate - Google Chrome 07-10-2023 21_34_56](https://github.com/Hartz-byte/real-estate-website-React/assets/67004713/91247735-2af2-4cff-9207-ffcbe1f9799c)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
